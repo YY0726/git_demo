@@ -11,4 +11,7 @@ public class Demo {
     public  void add(){
         System.out.println("hello2");
     }
+    public  void add1(){
+        System.out.println("hello2");
+    }
 }
